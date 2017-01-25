@@ -9,6 +9,10 @@
 #   2. Message a Friend (narrowcast)
 #   3. Save to Read Later (control)
 #   4. Content (control)
+##########################
+
+#The Article Task requires a .csv file in a folder named "friends" (located in same directory) that is named friends_subjectname.csv. 
+#This csv file needs to have a 'name' column that is populated with the participant's names of friends.
 
 # Press 't' at the "Ready" screen to begin task
 # (this can be changed depending on scanner trigger setup)
@@ -33,7 +37,7 @@ specific_run = None
 
 # Log files (.csv - spreadsheet and .log - longform)
 
-### Get csv logfile name - will be fed with information from the trial handler
+### Get csv logfile name 
 log_filename= 'logs/%s.csv' %subj_id
 run_data={
     'Participant ID': subj_id,
@@ -41,7 +45,7 @@ run_data={
     'Description': 'Task'
 }
 
-### Set up .log file - mostly automatic (PsychoPy default)
+### Set up .log file
 
 expdir = os.getcwd()
 logdir = '%s/logs' % (expdir)
@@ -82,12 +86,10 @@ for i in [within_jitter_dist_run1, within_jitter_dist_run2, between_jitter_dist_
 
 # Set up Window and Instructions
 
-### False for testing purposes
 useFullScreen=False
 win = visual.Window([800,600], monitor="testMonitor", units="deg", fullscr=useFullScreen, allowGUI=False)
 
 ### Ready and Fixation screens
-
 fixation = visual.TextStim(win, text="+", height=2, color="#FFFFFF")
 ready_screen = visual.TextStim(win, text="Ready.....", height=1.5, color="#FFFFFF")
 
@@ -97,24 +99,20 @@ instruct_screen = visual.TextStim(win,text='Decide whether \n\n- to Share on Wal
 responsebox_screen = visual.ImageStim(win,image="responsebox.png",pos=(-1,-3.5),size=(10,8))
 responsebox_screen_text = visual.TextStim(win, height=1.2,color="#FFFFFF", text="Use these 5 buttons to answer. \n\nThumb = 1\nPinky = 5", pos=(0,+5), wrapWidth=20)
 
-### Clue screen (only if task includes a clue about who the next article is supposed to be shared with BEFORE the article is presented)
-
+### Clue screen
 clue_screen= visual.TextStim(win,text="", wrapWidth=30,height=1.5)
 
 ### Reading screen
-
 headline_read=visual.TextStim(win, text="",pos=(0,4),height=1.2, bold=True, wrapWidth=20)
 abstract=visual.TextStim(win,text="",pos=(0,-2),height=1.2,  wrapWidth=20)
 cond_info=visual.TextStim(win, text="", pos=(0,7), height=1, wrapWidth=20)
 rec_cond_info=visual.Rect(win, width=21, height=1.5, lineWidth=2, pos=(0,7)) 
 
 ### Rating screen
-
 CondText=['Share: %s','Share: Wall','Read: Yourself', 'Topic: %s']
 condition_headline = visual.TextStim(win, text='', pos=(0,3), color="#FFFFFF", colorSpace=(0,0,0), height=2, wrapWidth=20)
 button_labels = { '1': 0, '2': 1, '3': 2, '4': 3, '5': 4 }
 
-##### .keys gives you the first element of a pair in a dictionairy (the second is called value) - so button_labels.keys()
 buttons = button_labels.keys()
 
 anchor1 = visual.TextStim(win, text='', pos=(-8,-2), height=1)
@@ -191,8 +189,6 @@ def do_run(run,trials):
         
         ### Log run number in .csv file
         trials.addData('run', run+1)
-        
-        #print trial['cond'].encode('utf-8')
         
         # Present Stimuli
         
@@ -311,7 +307,7 @@ def do_run(run,trials):
         logging.log(level=logging.DATA,msg='Rate onset')
         trials.addData('rate_onset',globalClock.getTime())
         
-        ## Clear Stuff from previous trial and set up for new one
+        ## Clear previous trial and set up for new one
                 
         event.clearEvents()
         keypress = None
