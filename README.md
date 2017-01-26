@@ -1,6 +1,12 @@
 # Article Sharing Task
 
-In the Article Sharing task, participants read the headline and abstracts of news articles from the health section of the New York Times while in the fMRI scanner. Prior to entering the scanner, participants were introduced to the task with a tutorial to ensure that they fully understood the task. They were also shown the button box used to record their answers in the scanner and asked to practice pressing each button. Immediately prior to the beginning of the task in the fMRI scanner, participants were once again briefly reminded of the task's instructions over the intercom in the scanner control room.
+In the Article Sharing task, participants read the headlines and abstracts of 80 news articles from the health section of the New York Times (published online between July 2012 and February 2013) while in the fMRI scanner. 
+
+The Article Sharing Task consists of 2 runs, with 40 trials each. To control for reading speed, participants hear a recording of the headlines and abstracts read aloud (M = 10.2s, range 8-12s, SD = 1.41s). Each headline and abstract was randomized into one of four conditions: 1) broadcast share condition (*"how likely would you be to share this article on your Facbeook wall?"*), 2) narrowcast share condition (*"how likely would you be to share this article with Facebook Friend X", where X is the name of a specific friend*), 3) select to read for self condition (*"how likely would you be to read the article yourself?"*), and 4) content recall/control condition (*"is [age/nutrition/fitness/science/laws/well-being/cancer] the topic of this article?"*). Participants see 20 news headlines and abstracts within each condition, which are randomly assigned that treats article length as a blocking factor (i.e., to balance the length of articles across conditions). Participants are asked to rate their responses on a 1-5 likert scale. 
+
+Each trial begins with a 1.5s orientation screen that informs participants which condition they are about to undertake. The participants then see and hear via headphones an article headline and abstract (8-12s). This is followed by a jittered fixation screen (M = 2s, range 0.5-4.7s, SD = 0.97s). Participants then have 3s to record their responses on a 5-point likert scale. This is followed by a fixation with a jittered inter-trial interval (M = 1.5s, range 0.5-4.7s, SD = 0.96s).
+
+Prior to entering the scanner, participants were introduced to the task with a tutorial to ensure that they fully understood the task. They were also shown the button box used to record their answers in the scanner and asked to practice pressing each button. Immediately prior to the beginning of the task in the fMRI scanner, participants were once again briefly reminded of the task's instructions over the intercom in the scanner control room.
 
 A researcher verbally instructed the participants on the details of the task during the tutorial:
 
@@ -22,3 +28,4 @@ A researcher verbally instructed the participants on the details of the task dur
 Then, immediately prior to the task starting in the scanner, participants were briefly reminded of the task instructions:
 
 *“This is the Article Task, where you read various articles. We will randomly choose one out of four questions for you to answer for each article. The questions are: Would you share the article on your Facebook wall?, Would you share the article with a specific Facebook friend?, Would you read the article’s full text yourself?, Is the topic of the article X? Answer the questions by pressing your button pad. You will also hear the article read out loud.  Make sure that you are considering the question while reading each article.”*
+
