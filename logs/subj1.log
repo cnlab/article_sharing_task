@@ -1,0 +1,655 @@
+1.0828 	WARNING 	Movie2 stim could not be imported and won't be available
+2.1751 	WARNING 	Couldn't measure a consistent frame rate.
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+0.0113 	DATA 	** START RUN 1 **
+3.0091 	DATA 	Keypress: t
+3.0101 	DATA 	** TRIGGER RECEIVED for Run 1 **
+0.2563 	WARNING 	t of last frame was 21.06ms (=1/47)
+0.3547 	WARNING 	t of last frame was 20.43ms (=1/48)
+0.7729 	WARNING 	t of last frame was 21.76ms (=1/45)
+0.8889 	WARNING 	t of last frame was 21.00ms (=1/47)
+0.9231 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+12.0032 	DATA 	Trial Onset: Article Nr. 61, Headline: Berries Lower Heart Attack Risk in Women, Abstract: Blueberries and strawberries have large concentrations of the flavonoid anthocyanin, which may help lower blood pressure and improve blood vessel function. condition Wall
+12.0155 	DATA 	Clue Onset
+13.6482 	DATA 	Read Onset
+23.6539 	DATA 	Within fixation
+24.5907 	DATA 	Rate onset
+26.2571 	DATA 	Keypress: 3
+26.2718 	DATA 	button press: 3
+27.6044 	DATA 	Between_FIXATION
+32.1218 	DATA 	Trial Onset: Article Nr. 76, Headline: Vitamin Labels May Be Wrong, Abstract: The amounts of vitamin D present in supplements sold over the counter often bear little resemblance to the descriptions on the bottle labels, a new study concludes. condition Read
+32.1311 	DATA 	Clue Onset
+33.7136 	DATA 	Read Onset
+43.7228 	DATA 	Within fixation
+45.8467 	DATA 	Rate onset
+46.3905 	DATA 	Keypress: 4
+46.3911 	DATA 	button press: 4
+48.8571 	DATA 	Between_FIXATION
+49.9765 	DATA 	Trial Onset: Article Nr. 24, Headline: BPA Levels Tied to Obesity in Youths, Abstract: A study has found that the risk of obesity is higher among children with high urinary levels of the chemical, which is widely used in food packaging. condition Friend
+49.9837 	DATA 	Clue Onset
+51.5499 	DATA 	Read Onset
+61.5590 	DATA 	Within fixation
+62.4032 	DATA 	Rate onset
+63.7096 	DATA 	Keypress: 4
+63.7107 	DATA 	button press: 4
+65.4118 	DATA 	Between_FIXATION
+66.5273 	DATA 	Trial Onset: Article Nr. 45, Headline: Risks: Coffee Linked to Fewer Oral Cancer Deaths, Abstract: A large study of 968,432 initially healthy men and women has found that drinking coffee is associated with a reduced risk of death from oral cancers. condition Content
+66.5415 	DATA 	Clue Onset
+68.1301 	DATA 	Read Onset
+80.1436 	DATA 	Within fixation
+81.9764 	DATA 	Rate onset
+84.8116 	DATA 	Keypress: 1
+84.8131 	DATA 	button press: 1
+84.9791 	DATA 	Between_FIXATION
+88.7964 	DATA 	Trial Onset: Article Nr. 5, Headline: Trans Fat Limits Show Benefits in New York, Abstract: A study shows that the average amount of trans fat per purchase decreased over the two years before and after restrictions were put into place. condition Content
+88.8080 	DATA 	Clue Onset
+90.3747 	DATA 	Read Onset
+100.3795 	DATA 	Within fixation
+101.7224 	DATA 	Rate onset
+104.6480 	DATA 	Keypress: 1
+104.6490 	DATA 	button press: 1
+104.7309 	DATA 	Between_FIXATION
+105.7477 	DATA 	Trial Onset: Article Nr. 13, Headline: Study Links Healthier Weight in Children With Strict Laws on School Snacks, Abstract: The study, conducted over three years in 40 states, is likely to stoke the debate over government efforts to reduce obesity rates. condition Wall
+105.7567 	DATA 	Clue Onset
+107.3273 	DATA 	Read Onset
+119.3327 	DATA 	Within fixation
+120.3722 	DATA 	Rate onset
+122.3162 	DATA 	Keypress: 3
+122.3172 	DATA 	button press: 3
+123.3823 	DATA 	Between_FIXATION
+124.9837 	DATA 	Trial Onset: Article Nr. 46, Headline: Live as Long as an Olympian, Abstract: Olympic athletes live longer, on average, than most of us. But certain sports, two new studies suggest, may be better than others when it comes to extending lifespan. condition Read
+124.9934 	DATA 	Clue Onset
+126.5703 	DATA 	Read Onset
+136.5837 	DATA 	Within fixation
+138.6284 	DATA 	Rate onset
+139.6347 	DATA 	Keypress: 5
+139.6357 	DATA 	button press: 5
+141.6355 	DATA 	Between_FIXATION
+144.1523 	DATA 	Trial Onset: Article Nr. 78, Headline: No Vitamin D and Calcium for Older Bones, Abstract: A government task force formally recommended on Monday that postmenopausal women avoid taking low daily doses of vitamin D and calcium to ward off bone fractures. condition Friend
+144.1635 	DATA 	Clue Onset
+145.7394 	DATA 	Read Onset
+157.7528 	DATA 	Within fixation
+158.4893 	DATA 	Rate onset
+161.5034 	DATA 	Between_FIXATION
+163.4232 	DATA 	Trial Onset: Article Nr. 74, Headline: Dangers of Too Much Calcium, Abstract: New research suggests that older women who take large calcium supplements may be at increased risk of heart disease and death. condition Content
+163.4330 	DATA 	Clue Onset
+165.0031 	DATA 	Read Onset
+175.0046 	DATA 	Within fixation
+176.1344 	DATA 	Rate onset
+177.6560 	DATA 	Keypress: 1
+177.6568 	DATA 	button press: 1
+179.1387 	DATA 	Between_FIXATION
+181.5562 	DATA 	Trial Onset: Article Nr. 7, Headline: Fitness Isn't Seen to Prevent Sports Injury, Abstract: In a study, Canadian researchers found no correlation between overall fitness and the time until a first injury. condition Read
+181.5690 	DATA 	Clue Onset
+183.1291 	DATA 	Read Onset
+191.1397 	DATA 	Within fixation
+193.4816 	DATA 	Rate onset
+194.9741 	DATA 	Keypress: 4
+194.9751 	DATA 	button press: 4
+196.4905 	DATA 	Between_FIXATION
+198.0083 	DATA 	Trial Onset: Article Nr. 64, Headline: Eggs Regain Reputation, Abstract: A new analysis adds to the evidence that eggs are not the dietary sin doctors once thought they were. condition Wall
+198.0186 	DATA 	Clue Onset
+199.5855 	DATA 	Read Onset
+207.5917 	DATA 	Within fixation
+208.2375 	DATA 	Rate onset
+210.3093 	DATA 	Keypress: 3
+210.3103 	DATA 	button press: 3
+211.2424 	DATA 	Between_FIXATION
+212.3602 	DATA 	Trial Onset: Article Nr. 20, Headline: How Testosterone May Alter the Brain After Exercise, Abstract: New science on sex hormones and the brain sheds light on how jogging and other workouts may improve the ability to remember and think. condition Friend
+212.3716 	DATA 	Clue Onset
+213.9500 	DATA 	Read Onset
+223.9641 	DATA 	Within fixation
+224.6036 	DATA 	Rate onset
+226.9162 	DATA 	Keypress: 2
+226.9344 	DATA 	button press: 2
+227.6107 	DATA 	Between_FIXATION
+229.1284 	DATA 	Trial Onset: Article Nr. 59, Headline: Fitness Center in a Hotel Room, Abstract: A businesswoman's need for a workout routine leads a personal trainer to incorporate a bathtub's edge and a travel iron into a 30-minute exercise regimen. condition Friend
+229.1390 	DATA 	Clue Onset
+230.7116 	DATA 	Read Onset
+242.7131 	DATA 	Within fixation
+243.6557 	DATA 	Rate onset
+244.5465 	DATA 	Keypress: 4
+244.5475 	DATA 	button press: 4
+246.6639 	DATA 	Between_FIXATION
+249.1813 	DATA 	Trial Onset: Article Nr. 40, Headline: Updating the Message to Get Americans Moving, Abstract: If Americans know exercise is so good for them, why don't they take the message to heart? Maybe, some researchers say, the problem is the message. condition Read
+249.1925 	DATA 	Clue Onset
+250.7663 	DATA 	Read Onset
+260.7822 	DATA 	Within fixation
+261.9107 	DATA 	Rate onset
+263.3319 	DATA 	Keypress: 3
+263.3328 	DATA 	button press: 3
+264.9149 	DATA 	Between_FIXATION
+267.0166 	DATA 	Trial Onset: Article Nr. 32, Headline: Children Like Spicy Red Cheetos; Schools Don't, Abstract: Some schools are trying to ban a chip that is high in salt and fat and leaves a trail of bright red fingerprints. condition Content
+267.0281 	DATA 	Clue Onset
+268.6069 	DATA 	Read Onset
+278.6162 	DATA 	Within fixation
+281.0398 	DATA 	Rate onset
+282.5174 	DATA 	Keypress: 5
+282.5184 	DATA 	button press: 5
+284.0506 	DATA 	Between_FIXATION
+287.5689 	DATA 	Trial Onset: Article Nr. 29, Headline: E-Health Opportunities for Seniors, Abstract: Connecting more older Americans to the Internet is expected to improve opportunities to protect their well-being and reduce national costs for care. condition Wall
+287.5784 	DATA 	Clue Onset
+289.1590 	DATA 	Read Onset
+299.1697 	DATA 	Within fixation
+301.2077 	DATA 	Rate onset
+302.8206 	DATA 	Keypress: 4
+302.8217 	DATA 	button press: 4
+304.2201 	DATA 	Between_FIXATION
+305.2379 	DATA 	Trial Onset: Article Nr. 10, Headline: Transplant Centers Struggle With Donors' Obesity, Abstract: Add one more unexpected consequence of Americans' expanding waistlines: A growing number of potential organ donors are ineligible to donate because of their weight. condition Content
+305.2488 	DATA 	Clue Onset
+306.8361 	DATA 	Read Onset
+318.8376 	DATA 	Within fixation
+320.4841 	DATA 	Rate onset
+322.0727 	DATA 	Keypress: 5
+322.0737 	DATA 	button press: 5
+323.4889 	DATA 	Between_FIXATION
+325.7912 	DATA 	Trial Onset: Article Nr. 21, Headline: Exaggerating Your Race Results, Abstract: Why do athletes shave a few minutes off their times, or add a few pounds to the amount they can bench press? condition Wall
+325.8003 	DATA 	Clue Onset
+327.3732 	DATA 	Read Onset
+335.3896 	DATA 	Within fixation
+336.1283 	DATA 	Rate onset
+337.3251 	DATA 	Keypress: 3
+337.3261 	DATA 	button press: 3
+339.1402 	DATA 	Between_FIXATION
+340.8576 	DATA 	Trial Onset: Article Nr. 48, Headline: How Much Milk Should Children Drink?, Abstract: Researchers have established that for most children, drinking two cups a day achieves the right balance for vitamin D and iron. condition Friend
+340.8647 	DATA 	Clue Onset
+342.4499 	DATA 	Read Onset
+350.4579 	DATA 	Within fixation
+353.0806 	DATA 	Rate onset
+354.4967 	DATA 	Keypress: 2
+354.5094 	DATA 	button press: 2
+356.0932 	DATA 	Between_FIXATION
+357.1135 	DATA 	Trial Onset: Article Nr. 37, Headline: How to Carbo-Load for a Marathon, Abstract: There is one element that can still be tweaked in the days before a marathon, two new studies show: what to eat. condition Read
+357.1226 	DATA 	Clue Onset
+358.6902 	DATA 	Read Onset
+366.6962 	DATA 	Within fixation
+367.2335 	DATA 	Rate onset
+368.5444 	DATA 	Keypress: 5
+368.5455 	DATA 	button press: 5
+370.2444 	DATA 	Between_FIXATION
+373.5479 	DATA 	Trial Onset: Article Nr. 42, Headline: For Athletes, Risks From Ibuprofen Use, Abstract: Many athletes take pre-emptive ibuprofen in hopes of preventing pain and soreness from exercise. New research shows the practice likely does more harm than good. condition Read
+373.5573 	DATA 	Clue Onset
+375.1423 	DATA 	Read Onset
+387.1455 	DATA 	Within fixation
+388.7907 	DATA 	Rate onset
+391.5518 	DATA 	Keypress: 3
+391.5641 	DATA 	button press: 3
+391.8022 	DATA 	Between_FIXATION
+394.3150 	DATA 	Trial Onset: Article Nr. 80, Headline: Dismissing Her Critics, Mrs. Obama Forges Ahead, Abstract: Michelle Obama said she kept her perspective on a life in the spotlight as she promoted a physical education initiative for children. condition Wall
+394.3256 	DATA 	Clue Onset
+395.9232 	DATA 	Read Onset
+405.9731 	DATA 	Within fixation
+407.2067 	DATA 	Rate onset
+408.2990 	DATA 	Keypress: 4
+408.2997 	DATA 	button press: 4
+410.2146 	DATA 	Between_FIXATION
+413.6160 	DATA 	Trial Onset: Article Nr. 44, Headline: Recipe for Resentment: Claims of Running Prowess, Abstract: Why does running arouse such passion? You don't hear gleeful chortling about the health hazards to master swimmers or cross-country skiers or cyclists who do 100-mile "century" rides. condition Friend
+413.6284 	DATA 	Clue Onset
+415.2122 	DATA 	Read Onset
+427.2163 	DATA 	Within fixation
+427.7538 	DATA 	Rate onset
+430.7673 	DATA 	Between_FIXATION
+433.4725 	DATA 	Trial Onset: Article Nr. 79, Headline: Simple Only on the Surface, Abstract: Despite centuries' worth of efforts to penetrate the complicated thickets where health and beauty intertwine, there is always more to explore, as two new books make clear. condition Content
+433.4806 	DATA 	Clue Onset
+435.0525 	DATA 	Read Onset
+447.0689 	DATA 	Within fixation
+451.7989 	DATA 	Rate onset
+452.5404 	DATA 	Keypress: 3
+452.5411 	DATA 	button press: 3
+454.8041 	DATA 	Between_FIXATION
+455.9277 	DATA 	Trial Onset: Article Nr. 56, Headline: Training Insights From Star Athletes, Abstract: Along with natural athletic prowess, elite sports stars often have an edge, gained from an insight or realization, that helps them separate themselves from the pack. condition Content
+455.9353 	DATA 	Clue Onset
+457.5087 	DATA 	Read Onset
+467.5213 	DATA 	Within fixation
+468.0699 	DATA 	Rate onset
+469.9271 	DATA 	Keypress: 2
+469.9282 	DATA 	button press: 2
+471.0718 	DATA 	Between_FIXATION
+474.2730 	DATA 	Trial Onset: Article Nr. 3, Headline: Medical Costs May Remain High After Weight-Loss Surgery, Abstract: A new study suggests that older men who undergo bariatric surgery to lose weight may not see any reductions in medical costs in the years that follow. condition Wall
+474.2833 	DATA 	Clue Onset
+475.8697 	DATA 	Read Onset
+487.8736 	DATA 	Within fixation
+489.4587 	DATA 	Keypress: 2
+492.2042 	DATA 	Rate onset
+492.6747 	DATA 	Keypress: 1
+492.6756 	DATA 	button press: 1
+495.2079 	DATA 	Between_FIXATION
+498.8258 	DATA 	Trial Onset: Article Nr. 54, Headline: Do the Brain Benefits of Exercise Last?, Abstract: Exercise bolsters the structure and function of the brain. But if someone stops exercising, does the brain revert to its former state, much like unused muscles slacken? condition Read
+498.8356 	DATA 	Clue Onset
+500.4224 	DATA 	Read Onset
+512.4273 	DATA 	Within fixation
+515.2647 	DATA 	Rate onset
+516.7440 	DATA 	Keypress: 5
+516.7451 	DATA 	button press: 5
+518.2773 	DATA 	Between_FIXATION
+521.1787 	DATA 	Trial Onset: Article Nr. 35, Headline: In Fight Against Obesity, Drink Sizes Matter, Abstract: History has shown that teaching people what is good for them is not enough. It must be accompanied by restrictions that curb unhealthy habits. condition Friend
+521.1891 	DATA 	Clue Onset
+522.7777 	DATA 	Read Onset
+532.7789 	DATA 	Within fixation
+534.2192 	DATA 	Rate onset
+534.7296 	DATA 	Keypress: 3
+534.7306 	DATA 	button press: 3
+537.2294 	DATA 	Between_FIXATION
+539.7480 	DATA 	Trial Onset: Article Nr. 27, Headline: Obese Children Less Sensitive to Taste, Abstract: A connection is not clear, but German researchers suggested that the hormone leptin might affect both body weight and taste buds. condition Wall
+539.7573 	DATA 	Clue Onset
+541.3342 	DATA 	Read Onset
+551.3475 	DATA 	Within fixation
+552.0899 	DATA 	Rate onset
+553.5657 	DATA 	Keypress: 4
+553.5668 	DATA 	button press: 4
+555.0981 	DATA 	Between_FIXATION
+556.9163 	DATA 	Trial Onset: Article Nr. 26, Headline: How Exercise Can Help You Master New Skills, Abstract: Physical exercise may help the brain to consolidate and store muscle memories, a new study found. condition Content
+556.9256 	DATA 	Clue Onset
+558.4932 	DATA 	Read Onset
+566.4992 	DATA 	Within fixation
+568.8427 	DATA 	Rate onset
+569.5884 	DATA 	Keypress: 4
+569.6005 	DATA 	button press: 4
+571.8504 	DATA 	Between_FIXATION
+572.8674 	DATA 	Trial Onset: Article Nr. 71, Headline: Treating Constipation in the Old, Abstract: Scientists found that some laxatives had significant effects but that there was little or no evidence that enemas or increased fluid intake had any benefit. condition Friend
+572.8777 	DATA 	Clue Onset
+574.4498 	DATA 	Read Onset
+584.4512 	DATA 	Within fixation
+584.9963 	DATA 	Rate onset
+585.4430 	DATA 	Keypress: 1
+585.4521 	DATA 	button press: 1
+588.0019 	DATA 	Between_FIXATION
+589.1194 	DATA 	Trial Onset: Article Nr. 33, Headline: Diabetes Study Ends Early With a Surprising Result, Abstract: Diet and weight loss did not prevent heart attacks and strokes in overweight and obese people with Type 2 diabetes. condition Read
+589.1304 	DATA 	Clue Onset
+590.7077 	DATA 	Read Onset
+600.7197 	DATA 	Within fixation
+601.8450 	DATA 	Rate onset
+602.9713 	DATA 	Keypress: 2
+602.9723 	DATA 	button press: 2
+604.8545 	DATA 	Between_FIXATION
+606.2714 	DATA 	Trial Onset: Article Nr. 31, Headline: Get Up. Get Out. Don't Sit., Abstract: Two new studies make a convincing case that sitting too much will shorten your life. condition Friend
+606.2816 	DATA 	Clue Onset
+607.8889 	DATA 	Read Onset
+615.9048 	DATA 	Within fixation
+616.8423 	DATA 	Rate onset
+617.6223 	DATA 	Keypress: 4
+617.6233 	DATA 	button press: 4
+619.8556 	DATA 	Between_FIXATION
+624.0568 	DATA 	Trial Onset: Article Nr. 73, Headline: Why Four Workouts a Week May Be Better Than Six, Abstract: A fairly leisurely approach to scheduling workouts may actually be more beneficial than working out almost daily, a new study suggests. condition Wall
+624.0659 	DATA 	Clue Onset
+625.6375 	DATA 	Read Onset
+635.6405 	DATA 	Within fixation
+636.2777 	DATA 	Rate onset
+637.4087 	DATA 	Keypress: 5
+637.4095 	DATA 	button press: 5
+639.2912 	DATA 	Between_FIXATION
+640.7087 	DATA 	Trial Onset: Article Nr. 1, Headline: Iron Supplements Fight Fatigue in Women, Abstract: In a randomized controlled double-blinded study, iron supplementation reduced fatigue by almost 50 percent in women who are low in iron but not anemic. condition Read
+640.7190 	DATA 	Clue Onset
+642.2928 	DATA 	Read Onset
+652.3090 	DATA 	Within fixation
+653.5559 	DATA 	Rate onset
+654.8098 	DATA 	Keypress: 5
+654.8108 	DATA 	button press: 5
+656.5599 	DATA 	Between_FIXATION
+657.8612 	DATA 	Trial Onset: Article Nr. 58, Headline: The Appetite Workout, Abstract: Can exercise help regulate how much we eat? New science suggests that if you stick with the right kind of exercise, you may change how your body interacts with food. condition Content
+657.8754 	DATA 	Clue Onset
+659.4493 	DATA 	Read Onset
+669.4610 	DATA 	Within fixation
+670.0101 	DATA 	Rate onset
+673.0116 	DATA 	Between_FIXATION
+674.0292 	DATA 	Trial Onset: Article Nr. 38, Headline: For Omega-3s, Fish May Beat Pills, Abstract: Taking supplements of omega-3 fatty acids does not have the same effect of reducing the risk of stroke as eating fish high in omega-3s, a study shows. condition Wall
+674.0394 	DATA 	Clue Onset
+675.6268 	DATA 	Read Onset
+687.6307 	DATA 	Within fixation
+691.1688 	DATA 	Rate onset
+691.5029 	DATA 	Keypress: 4
+691.5144 	DATA 	button press: 4
+694.1809 	DATA 	Between_FIXATION
+695.2982 	DATA 	Trial Onset: Article Nr. 23, Headline: In 'Obesity Paradox', Thinner May Mean Sicker, Abstract: A slow but steady accumulation of evidence is inspiring some experts to re-examine assumptions about the role of body fat in certain chronic diseases. condition Read
+695.3098 	DATA 	Clue Onset
+696.8895 	DATA 	Read Onset
+708.8987 	DATA 	Within fixation
+709.4227 	DATA 	Rate onset
+711.6831 	DATA 	Keypress: 5
+711.6841 	DATA 	button press: 5
+712.4336 	DATA 	Between_FIXATION
+713.4526 	DATA 	Trial Onset: Article Nr. 57, Headline: Vitamin D Doesn't Reduce Knee Pain, Abstract: A two-year study found that vitamin D, which evidence suggested might slow osteoarthritis, neither reduced knee pain nor restored cartilage. condition Friend
+713.4616 	DATA 	Clue Onset
+715.0469 	DATA 	Read Onset
+725.0512 	DATA 	Within fixation
+726.7946 	DATA 	Rate onset
+728.0682 	DATA 	Keypress: 3
+728.0692 	DATA 	button press: 3
+729.8014 	DATA 	Between_FIXATION
+731.0192 	DATA 	Trial Onset: Article Nr. 15, Headline: How to Make Summer Your Training Partner, Abstract: Athletes' performance actually may improve as a result of their struggles with soaring temperatures. condition Content
+731.0311 	DATA 	Clue Onset
+732.6006 	DATA 	Read Onset
+740.6024 	DATA 	Within fixation
+743.1273 	DATA 	Rate onset
+744.5584 	DATA 	Keypress: 1
+744.5703 	DATA 	button press: 1
+746.1366 	DATA 	Between_FIXATION
+747.4540 	DATA 	*****END RUN 1*****
+765.7718 	DATA 	Keypress: space
+765.7895 	DATA 	** START RUN 2 **
+769.4559 	DATA 	Keypress: t
+769.4561 	DATA 	** TRIGGER RECEIVED for Run 2 **
+12.0179 	DATA 	Trial Onset: Article Nr. 14, Headline: Strategies for Hot-Weather Exercise, Abstract: A chilled collar or an icy drink can help keep an athlete cool in hot weather. Dousing the head with water may provide added benefits, a new study found. condition Friend
+12.0266 	DATA 	Clue Onset
+13.5969 	DATA 	Read Onset
+23.6028 	DATA 	Within fixation
+24.5465 	DATA 	Rate onset
+26.1578 	DATA 	Keypress: 4
+26.1701 	DATA 	button press: 4
+27.5529 	DATA 	Between_FIXATION
+28.6551 	DATA 	Trial Onset: Article Nr. 72, Headline: Fitness May Lower Dementia Risk, Abstract: Being physically fit in midlife is associated with a lower risk of dementia in old age, a new study reports. condition Wall
+28.6634 	DATA 	Clue Onset
+30.2336 	DATA 	Read Onset
+40.2375 	DATA 	Within fixation
+42.3772 	DATA 	Rate onset
+42.7052 	DATA 	Keypress: 4
+42.7064 	DATA 	button press: 4
+45.3884 	DATA 	Between_FIXATION
+48.8070 	DATA 	Trial Onset: Article Nr. 36, Headline: Study Questions Benefit of Extra Vitamin D, Abstract: The supplements have no effect on the most common blood markers for cardiovascular risk and death, a randomized trial indicates. condition Content
+48.8165 	DATA 	Clue Onset
+50.3986 	DATA 	Read Onset
+60.4065 	DATA 	Within fixation
+61.1359 	DATA 	Rate onset
+63.1905 	DATA 	Keypress: 1
+63.1912 	DATA 	button press: 1
+64.1409 	DATA 	Between_FIXATION
+65.1580 	DATA 	Trial Onset: Article Nr. 11, Headline: Love and Food in Beauty's Kitchen, Abstract: Throughout my childhood, my family life was ruled by my father's weight loss struggles. But everything was different in my grandmother's kitchen. condition Read
+65.1677 	DATA 	Clue Onset
+66.7437 	DATA 	Read Onset
+76.7589 	DATA 	Within fixation
+77.8056 	DATA 	Rate onset
+79.5638 	DATA 	Keypress: 5
+79.5762 	DATA 	button press: 5
+80.8090 	DATA 	Between_FIXATION
+82.4103 	DATA 	Trial Onset: Article Nr. 52, Headline: Good and Bad, the Little Things Add Up in Fitness, Abstract: Perhaps the most dominant exercise-science theme of 2012 was that little things add up, with both positive and pernicious effects. condition Friend
+82.4196 	DATA 	Clue Onset
+83.9965 	DATA 	Read Onset
+94.0103 	DATA 	Within fixation
+94.7378 	DATA 	Rate onset
+96.5512 	DATA 	Keypress: 3
+96.5613 	DATA 	button press: 3
+97.7442 	DATA 	Between_FIXATION
+102.4455 	DATA 	Trial Onset: Article Nr. 6, Headline: The 10-Minute Workout, Times Three, Abstract: A 10-minute brisk walk three times a day proved more effective than a single 30-minute workout at keeping blood pressure in a healthy range, researchers at Arizona State University report. condition Content
+102.4556 	DATA 	Clue Onset
+104.0518 	DATA 	Read Onset
+116.0628 	DATA 	Within fixation
+117.4044 	DATA 	Rate onset
+119.4994 	DATA 	Keypress: 5
+119.5004 	DATA 	button press: 5
+120.4135 	DATA 	Between_FIXATION
+123.5158 	DATA 	Trial Onset: Article Nr. 69, Headline: Most Food Illnesses Come From Greens, Abstract: Leafy vegetables like lettuce - not dreaded spoiled shellfish - cause the most food-borne illness, with contaminated poultry being responsible for the most deaths. condition Wall
+123.5249 	DATA 	Clue Onset
+125.1167 	DATA 	Read Onset
+135.1316 	DATA 	Within fixation
+135.9754 	DATA 	Rate onset
+137.7157 	DATA 	Keypress: 5
+137.7167 	DATA 	button press: 5
+138.9827 	DATA 	Between_FIXATION
+141.0020 	DATA 	Trial Onset: Article Nr. 65, Headline: Really? Bright Light and Exercise Trigger Migraines, Abstract: A study published in the journal Neurology found that unlike exercise, bright light may not be a cause of migraines. But more research is needed. condition Read
+141.0137 	DATA 	Clue Onset
+142.5928 	DATA 	Read Onset
+154.6005 	DATA 	Within fixation
+156.6463 	DATA 	Rate onset
+157.9848 	DATA 	Keypress: 4
+157.9858 	DATA 	button press: 4
+159.6513 	DATA 	Between_FIXATION
+162.0529 	DATA 	Trial Onset: Article Nr. 2, Headline: Low-Fat Diet May Ease Hot Flashes, Abstract: A study suggests that weight loss with a low-fat, high fruit and vegetable diet may help reduce or eliminate hot flashes and night sweats associated with menopause. condition Read
+162.0642 	DATA 	Clue Onset
+163.6267 	DATA 	Read Onset
+175.6362 	DATA 	Within fixation
+178.2786 	DATA 	Rate onset
+178.6745 	DATA 	Keypress: 3
+178.6868 	DATA 	button press: 3
+181.2897 	DATA 	Between_FIXATION
+182.4929 	DATA 	Trial Onset: Article Nr. 9, Headline: Dieting vs. Exercise for Weight Loss, Abstract: Two new studies look at the irksome question of why so many of us who work out remain so heavy. condition Friend
+182.5005 	DATA 	Clue Onset
+184.0917 	DATA 	Read Onset
+192.1052 	DATA 	Within fixation
+193.2528 	DATA 	Rate onset
+194.8440 	DATA 	Keypress: 5
+194.8560 	DATA 	button press: 5
+196.2554 	DATA 	Between_FIXATION
+198.3734 	DATA 	Trial Onset: Article Nr. 49, Headline: Study Finds Modest Declines in Obesity Rates Among Young Children From Poor Families, Abstract: The share of 2-to-4-year-olds who were obese declined to 14.9 percent in 2010, down from 15.2 percent in 2003. condition Content
+198.3843 	DATA 	Clue Onset
+199.9814 	DATA 	Read Onset
+211.9904 	DATA 	Within fixation
+212.8183 	DATA 	Rate onset
+214.7426 	DATA 	Keypress: 1
+214.7436 	DATA 	button press: 1
+215.8244 	DATA 	Between_FIXATION
+217.1419 	DATA 	Trial Onset: Article Nr. 43, Headline: Obesity in Young Is Seen as Falling in Several Cities, Abstract: Small but significant declines in childhood obesity offer the first indication that one of the nation's most intractable health problems may be reversing course. condition Wall
+217.1540 	DATA 	Clue Onset
+218.7577 	DATA 	Read Onset
+230.7592 	DATA 	Within fixation
+231.4012 	DATA 	Rate onset
+232.6434 	DATA 	Keypress: 1
+232.6444 	DATA 	button press: 1
+234.4104 	DATA 	Between_FIXATION
+236.9277 	DATA 	Trial Onset: Article Nr. 25, Headline: Really?: Always Consume Carbs Before Surgery, Abstract: Having a drink containing carbohydrates up to two hours before surgery may aid recovery, but more research is needed. condition Read
+236.9390 	DATA 	Clue Onset
+238.5130 	DATA 	Read Onset
+248.5135 	DATA 	Within fixation
+249.3505 	DATA 	Rate onset
+250.7621 	DATA 	Keypress: 4
+250.7631 	DATA 	button press: 4
+252.3629 	DATA 	Between_FIXATION
+254.0803 	DATA 	Trial Onset: Article Nr. 8, Headline: Overcoming a Heart Condition to Win Olympic Gold, Abstract: One of the most compelling aspects of the swimmer Dana Vollmer's story is that she overcame not only athletic stumbles but also a potentially deadly heart condition. condition Content
+254.0904 	DATA 	Clue Onset
+255.6871 	DATA 	Read Onset
+267.6974 	DATA 	Within fixation
+269.0480 	DATA 	Rate onset
+272.0144 	DATA 	Keypress: 1
+272.0155 	DATA 	button press: 1
+272.0641 	DATA 	Between_FIXATION
+273.2830 	DATA 	Trial Onset: Article Nr. 51, Headline: What You Think You Know (but Don't) About Wise Eating, Abstract: Joe Schwarcz, a scientist at McGill University, sets the record straight on a host of widely circulated nutritional falsehoods. condition Friend
+273.2935 	DATA 	Clue Onset
+274.8735 	DATA 	Read Onset
+284.8820 	DATA 	Within fixation
+289.4091 	DATA 	Rate onset
+289.8004 	DATA 	Keypress: 3
+289.8014 	DATA 	button press: 3
+292.4163 	DATA 	Between_FIXATION
+294.3341 	DATA 	Trial Onset: Article Nr. 17, Headline: Finding Your Ideal Running Form, Abstract: Many experts say runners should be taught the best form, but new research suggests that runners often improve their form just by running more. condition Wall
+294.3429 	DATA 	Clue Onset
+295.9098 	DATA 	Read Onset
+305.9177 	DATA 	Within fixation
+308.6408 	DATA 	Rate onset
+310.4070 	DATA 	Keypress: 4
+310.4190 	DATA 	button press: 4
+311.6531 	DATA 	Between_FIXATION
+313.2695 	DATA 	Trial Onset: Article Nr. 75, Headline: Really? Probiotic Supplements Can Lower Cholesterol, Abstract: Probiotics may improve digestive health, but it is not yet clear whether they can reduce cholesterol levels. condition Content
+313.2789 	DATA 	Clue Onset
+314.8561 	DATA 	Read Onset
+322.8697 	DATA 	Within fixation
+325.2170 	DATA 	Rate onset
+326.7210 	DATA 	Keypress: 2
+326.7222 	DATA 	button press: 2
+328.2212 	DATA 	Between_FIXATION
+331.2383 	DATA 	Trial Onset: Article Nr. 16, Headline: Weight-Loss Surgery May Prevent Diabetes, Abstract: A new study shows that bariatric surgery not only produced sustained weight loss in obese men and women but substantially reduced their odds of developing Type 2 diabetes. condition Read
+331.2481 	DATA 	Clue Onset
+332.8230 	DATA 	Read Onset
+344.8388 	DATA 	Within fixation
+346.4655 	DATA 	Rate onset
+348.3731 	DATA 	Keypress: 3
+348.3741 	DATA 	button press: 3
+349.4773 	DATA 	Between_FIXATION
+351.3906 	DATA 	Trial Onset: Article Nr. 53, Headline: Really? Sugar-Free Gum Helps Prevent Cavities, Abstract: Sugar-free gum may reduce cavities, but the effect may have to do with the increased salivary flow caused by chewing the product, not its additives. condition Friend
+351.4007 	DATA 	Clue Onset
+352.9928 	DATA 	Read Onset
+365.0100 	DATA 	Within fixation
+365.6567 	DATA 	Rate onset
+366.0752 	DATA 	Keypress: 2
+366.0762 	DATA 	button press: 2
+368.6589 	DATA 	Between_FIXATION
+371.3763 	DATA 	Trial Onset: Article Nr. 50, Headline: Really? Dieting Is a Short-lived New Year's Resolution, Abstract: A study of Google searches on diet-related keywords indicates that people are more likely to consider dieting in December and January, but interest drops off sharply thereafter. condition Wall
+371.3854 	DATA 	Clue Onset
+372.9898 	DATA 	Read Onset
+384.9934 	DATA 	Within fixation
+387.6397 	DATA 	Rate onset
+388.0944 	DATA 	Keypress: 2
+388.0955 	DATA 	button press: 2
+390.6443 	DATA 	Between_FIXATION
+391.8619 	DATA 	Trial Onset: Article Nr. 63, Headline: Ask Well: Squats for Aging Knees, Abstract: The Phys Ed columnist Gretchen Reynolds responds to a reader who is concerned about her painful knees. condition Read
+391.8732 	DATA 	Clue Onset
+393.4366 	DATA 	Read Onset
+401.4454 	DATA 	Within fixation
+402.2899 	DATA 	Rate onset
+403.8010 	DATA 	Keypress: 4
+403.8131 	DATA 	button press: 4
+405.2962 	DATA 	Between_FIXATION
+407.6140 	DATA 	Trial Onset: Article Nr. 19, Headline: The Benefits of Middle-Age Fitness, Abstract: Even if you haven't previously bothered with exercise, getting fit in middle age appears to reshape the landscape of aging. condition Wall
+407.6243 	DATA 	Clue Onset
+409.2072 	DATA 	Read Onset
+417.2138 	DATA 	Within fixation
+419.8558 	DATA 	Rate onset
+421.2821 	DATA 	Keypress: 3
+421.2830 	DATA 	button press: 3
+422.8647 	DATA 	Between_FIXATION
+425.1823 	DATA 	Trial Onset: Article Nr. 62, Headline: Is There One Right Way to Run?, Abstract: A new study of barefoot tribespeople in Kenya raises tantalizing questions about just how humans really are meant to move. condition Content
+425.1940 	DATA 	Clue Onset
+426.7572 	DATA 	Read Onset
+436.7660 	DATA 	Within fixation
+438.0088 	DATA 	Rate onset
+439.5717 	DATA 	Keypress: 1
+439.5838 	DATA 	button press: 1
+441.0191 	DATA 	Between_FIXATION
+443.0343 	DATA 	Trial Onset: Article Nr. 41, Headline: Low Vitamin D Level Tied to Type 1 Diabetes, Abstract: Researchers found that subjects with low blood levels of vitamin D were more likely to develop diabetes than those with higher levels. condition Friend
+443.0441 	DATA 	Clue Onset
+444.6114 	DATA 	Read Onset
+454.6181 	DATA 	Within fixation
+455.4447 	DATA 	Rate onset
+457.2528 	DATA 	Keypress: 2
+457.2538 	DATA 	button press: 2
+458.4520 	DATA 	Between_FIXATION
+462.4750 	DATA 	Trial Onset: Article Nr. 60, Headline: An Unexpected Road Hazard: Obesity, Abstract: Obese drivers are more likely than normal weight drivers to die in car accidents, a new study finds. condition Content
+462.4829 	DATA 	Clue Onset
+464.0452 	DATA 	Read Onset
+472.0539 	DATA 	Within fixation
+475.0012 	DATA 	Rate onset
+475.9044 	DATA 	Keypress: 1
+475.9055 	DATA 	button press: 1
+478.0066 	DATA 	Between_FIXATION
+479.0241 	DATA 	Trial Onset: Article Nr. 30, Headline: Cholesterol Is Falling in Adults, Study Finds, Abstract: Changes in the amount of trans fats in the American diet may be forcing down cholesterol levels in adults, new research suggests. condition Friend
+479.0340 	DATA 	Clue Onset
+480.6053 	DATA 	Read Onset
+490.6055 	DATA 	Within fixation
+491.3458 	DATA 	Rate onset
+493.1896 	DATA 	Keypress: 3
+493.1907 	DATA 	button press: 3
+494.3560 	DATA 	Between_FIXATION
+496.9580 	DATA 	Trial Onset: Article Nr. 70, Headline: Really? Timing of Meals Affects Weight Loss, Abstract: Studies suggest that eating at later hours, especially main meals, can affect efforts to lose weight. condition Read
+496.9682 	DATA 	Clue Onset
+498.5422 	DATA 	Read Onset
+506.5580 	DATA 	Within fixation
+508.0032 	DATA 	Rate onset
+509.2257 	DATA 	Keypress: 5
+509.2267 	DATA 	button press: 5
+511.0102 	DATA 	Between_FIXATION
+513.1256 	DATA 	Trial Onset: Article Nr. 18, Headline: What's Your Workout? A Food Star's Fitness Plan, Abstract: The Food Network chef Robert Irvine manages to combine a fast-paced culinary career with a passion for fitness. condition Wall
+513.1351 	DATA 	Clue Onset
+514.7038 	DATA 	Read Onset
+524.7093 	DATA 	Within fixation
+526.8113 	DATA 	Keypress: 3
+526.9385 	DATA 	Rate onset
+527.3603 	DATA 	Keypress: 3
+527.3612 	DATA 	button press: 3
+529.9437 	DATA 	Between_FIXATION
+531.1610 	DATA 	Trial Onset: Article Nr. 34, Headline: Curbing the Enthusiasm on Daily Multivitamins, Abstract: Experts are concerned about letting optimism about the potential benefits of nutritional supplements get ahead of the scientific evidence. condition Read
+531.1703 	DATA 	Clue Onset
+532.7459 	DATA 	Read Onset
+542.7619 	DATA 	Within fixation
+543.2994 	DATA 	Rate onset
+544.0791 	DATA 	Keypress: 4
+544.0801 	DATA 	button press: 4
+546.3119 	DATA 	Between_FIXATION
+547.5162 	DATA 	Trial Onset: Article Nr. 55, Headline: How to Go Vegan, Abstract: Vegan chefs, who agree that changing eating habits overnight can be challenging, offered advice for stocking a vegan pantry and finding replacements for dairy products. condition Content
+547.5279 	DATA 	Clue Onset
+549.0982 	DATA 	Read Onset
+559.1133 	DATA 	Within fixation
+559.6487 	DATA 	Rate onset
+562.1307 	DATA 	Keypress: 4
+562.1317 	DATA 	button press: 4
+562.6639 	DATA 	Between_FIXATION
+563.7818 	DATA 	Trial Onset: Article Nr. 4, Headline: The Unproven Claims of Fitness Products, Abstract: A review of 431 performance-enhancing claims for 104 sports devices, equipment, foods and drinks found not a single methodologically sound study that supported any of the claims. condition Friend
+563.7915 	DATA 	Clue Onset
+565.3841 	DATA 	Read Onset
+577.3986 	DATA 	Within fixation
+580.0394 	DATA 	Rate onset
+581.4710 	DATA 	Keypress: 2
+581.4720 	DATA 	button press: 2
+583.0496 	DATA 	Between_FIXATION
+584.0679 	DATA 	Trial Onset: Article Nr. 28, Headline: Do Exercise Programs Help Children Stay Fit?, Abstract: Exercise programs during or after school did little to make young people more active, a new study found. So how can we get children to move more? condition Wall
+584.0761 	DATA 	Clue Onset
+585.6638 	DATA 	Read Onset
+597.6677 	DATA 	Within fixation
+598.7052 	DATA 	Rate onset
+599.7185 	DATA 	Keypress: 2
+599.7195 	DATA 	button press: 2
+601.7186 	DATA 	Between_FIXATION
+604.8361 	DATA 	Trial Onset: Article Nr. 67, Headline: Malnourished Gain Lifesaver in Antibiotics, Abstract: Cheap antibiotics given with nutritional treatment could save tens of thousands of lives a year, researchers found. condition Wall
+604.8452 	DATA 	Clue Onset
+606.4248 	DATA 	Read Onset
+614.4363 	DATA 	Within fixation
+616.1777 	DATA 	Rate onset
+618.3706 	DATA 	Keypress: 4
+618.3716 	DATA 	button press: 4
+619.1870 	DATA 	Between_FIXATION
+620.9046 	DATA 	Trial Onset: Article Nr. 47, Headline: B.M.I. Can Predict Health Risks, Abstract: For certain health problems, body mass index, derived from the ratio of height to weight, is the best overall predictor, a new study says. condition Content
+620.9134 	DATA 	Clue Onset
+622.4829 	DATA 	Read Onset
+632.4881 	DATA 	Within fixation
+633.2196 	DATA 	Rate onset
+636.2222 	DATA 	Between_FIXATION
+636.3733 	DATA 	Keypress: 1
+637.4397 	DATA 	Trial Onset: Article Nr. 66, Headline: Myths of Weight Loss Are Plentiful, Researcher Says, Abstract: A study tries to set the record straight on unproven assumptions that have been repeated so often that even scientists have tended to believe them. condition Friend
+637.4496 	DATA 	Clue Onset
+639.0472 	DATA 	Read Onset
+651.0571 	DATA 	Within fixation
+651.6948 	DATA 	Rate onset
+653.2580 	DATA 	Keypress: 5
+653.2590 	DATA 	button press: 5
+654.7077 	DATA 	Between_FIXATION
+656.9256 	DATA 	Trial Onset: Article Nr. 12, Headline: Binge Eating Among Men Steps Out of the Shadows, Abstract: Binge eating disorder, which affects about eight million Americans, is about as common in men as in women, but treatment has mainly focused on women. condition Read
+656.9352 	DATA 	Clue Onset
+658.5158 	DATA 	Read Onset
+668.5288 	DATA 	Within fixation
+670.7659 	DATA 	Rate onset
+671.5100 	DATA 	Keypress: 4
+671.5110 	DATA 	button press: 4
+673.7765 	DATA 	Between_FIXATION
+677.4822 	DATA 	Trial Onset: Article Nr. 22, Headline: Really?: Adding Milk to Tea Destroys its Antioxidants, Abstract: Researchers have been surprised to find that adding milk may strip tea of some of its beneficial effects. condition Friend
+677.4898 	DATA 	Clue Onset
+679.0502 	DATA 	Read Onset
+687.0613 	DATA 	Within fixation
+689.7832 	DATA 	Rate onset
+690.1787 	DATA 	Keypress: 1
+690.1798 	DATA 	button press: 1
+692.7954 	DATA 	Between_FIXATION
+694.1968 	DATA 	Trial Onset: Article Nr. 68, Headline: Gluten-Free, Whether You Need It or Not, Abstract: Avoiding gluten is a must for those with celiac disease, but many people are going gluten-free in a bid for a healthy diet. condition Read
+694.2072 	DATA 	Clue Onset
+695.7869 	DATA 	Read Onset
+705.7965 	DATA 	Within fixation
+706.9408 	DATA 	Rate onset
+707.9190 	DATA 	Keypress: 2
+707.9319 	DATA 	button press: 2
+709.9484 	DATA 	Between_FIXATION
+710.9648 	DATA 	Trial Onset: Article Nr. 39, Headline: Doubt on Soy and Fiber as Menopause Aid, Abstract: Researchers concluded that adding soy and fiber to the diet probably does not help prevent hot flashes and night sweats. condition Content
+710.9746 	DATA 	Clue Onset
+712.5509 	DATA 	Read Onset
+722.5653 	DATA 	Within fixation
+724.3098 	DATA 	Rate onset
+725.2041 	DATA 	Keypress: 1
+725.2165 	DATA 	button press: 1
+727.3161 	DATA 	Between_FIXATION
+729.7338 	DATA 	Trial Onset: Article Nr. 77, Headline: Caffeine Linked to Lower Birth Weight Babies, Abstract: Drinking caffeinated beverages while pregnant may raise the risk of having a lower birth weight baby, a new study found. condition Wall
+729.7428 	DATA 	Clue Onset
+731.3134 	DATA 	Read Onset
+741.3177 	DATA 	Within fixation
+742.4617 	DATA 	Rate onset
+743.4402 	DATA 	Keypress: 2
+743.4517 	DATA 	button press: 2
+745.4731 	DATA 	Between_FIXATION
+747.4863 	DATA 	*****END RUN 2*****
+759.8517 	DATA 	Keypress: space
