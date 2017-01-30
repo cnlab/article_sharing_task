@@ -7,7 +7,7 @@
 #   --------------
 #   1. Facebook Wall (broadcast)
 #   2. Message a Friend (narrowcast)
-#   3. Save to Read Later
+#   3. Select to Read Yourself
 #   4. Content (control)
 ##########################
 
